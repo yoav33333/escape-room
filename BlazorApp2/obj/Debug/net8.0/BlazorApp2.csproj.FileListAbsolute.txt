@@ -1029,3 +1029,4 @@ C:\Users\Cyber_AI\Desktop\code\CS\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorA
 C:\Users\Cyber_AI\Desktop\code\CS\BlazorApp2\BlazorApp2\obj\Debug\net8.0\refint\BlazorApp2.dll
 C:\Users\Cyber_AI\Desktop\code\CS\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.pdb
 C:\Users\Cyber_AI\Desktop\code\CS\BlazorApp2\BlazorApp2\obj\Debug\net8.0\ref\BlazorApp2.dll
+C:\Users\Cyber_AI\Desktop\code\CS\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.sourcelink.json
